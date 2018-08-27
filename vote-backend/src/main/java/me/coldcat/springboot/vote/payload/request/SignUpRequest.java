@@ -1,4 +1,4 @@
-package me.coldcat.springboot.vote.payload;
+package me.coldcat.springboot.vote.payload.request;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;

@@ -1,4 +1,4 @@
-package me.coldcat.springboot.vote.payload;
+package me.coldcat.springboot.vote.payload.response;
 
 public class ApiResponse {
     private Boolean success;
